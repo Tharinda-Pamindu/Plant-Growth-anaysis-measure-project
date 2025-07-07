@@ -1,6 +1,5 @@
 # Plant Growth Monitoring System
 
-\<hr\>
 
 ## Introduction
 
